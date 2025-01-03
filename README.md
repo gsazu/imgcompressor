@@ -9,7 +9,7 @@ To implement it in your project you can add the below dependency in your `app/bu
 ```gradle
 dependencies {
     ...
-	implementation 'io.github.gsazu:imgcompressor:0.0.1'
+	implementation 'io.github.gsazu:imgcompressor:0.0.3'
 }
 ```
 
